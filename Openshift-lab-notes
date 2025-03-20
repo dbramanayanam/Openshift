@@ -1,4 +1,4 @@
-1. start auth-providers
+1. lab start auth-providers
 2. lab start auth-rbac
 3. 3 also authentication and authorization
 5. quota: lab start selfservice-review
